@@ -1,0 +1,5 @@
+console.log(removeDuplicates('programming')); // Output: 'progamin'
+console.log(removeDuplicates('hello world')); // Output: 'helo wrld'
+console.log(removeDuplicates('aaaaa')); // Output: 'a'
+console.log(removeDuplicates('abcd')); // Output: 'abcd'
+console.log(removeDuplicates('aabbcc')); // Output: 'abc'
